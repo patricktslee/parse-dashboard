@@ -1,0 +1,16 @@
+{
+    "apps": [
+      {
+        "serverURL": "https://parse.anchk.org/parse",
+        "appId": "defaultAppId",
+        "masterKey": "0ca2d238-f54a-49a3-84dd-929b49adc718",
+        "appName": "My Parse Server App"
+      }
+    ],
+    "users": [
+      {
+        "user":"user1",
+        "pass":"pass" // change this to something secure
+      }
+    ]
+  }
